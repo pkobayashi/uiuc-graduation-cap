@@ -1,3 +1,4 @@
+<pre>
 Materials:
 	1 sheet 8.5" x 8.5" orange cardstock (I used one sheet of white 8.5" x 11" cardstock, and printed a borderless orange sheet)
   	1 sheet 8.5" x 8.5" white cardstock (I used one sheet of white 8.5" x 11" cardstock)
@@ -31,3 +32,4 @@ Glue blue paper pieces onto cardboard pieces.
 Glue blue pieces onto cap.
 
 Done!
+</pre>
